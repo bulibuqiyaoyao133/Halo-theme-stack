@@ -1,0 +1,20 @@
+.article-comment {
+  background-color: var(--card-background);
+  border-radius: var(--card-border-radius);
+  box-shadow: var(--shadow-l1);
+  padding: var(--card-padding);
+  color: var(--accent-color);
+  box-sizing: content-box;
+  line-height: 1.75;
+  font-size: var(--article-font-size);
+  .comment-head {
+    .comment-title {
+      margin-bottom: 1.2rem;
+      color: var(--accent-color);
+      font-size: 1.8rem;
+      font-weight: 700;
+
+    }
+  }
+
+}
