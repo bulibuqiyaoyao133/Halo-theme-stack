@@ -15,9 +15,9 @@
     <img src="https://img.shields.io/badge/dynamic/yaml?label=Halo&query=%24.spec.requires&url=https://raw.githubusercontent.com/jiewenhuang/halo-theme-stack/main/theme.yaml&color=113,195,71" alt="Halo"/>
   </a>
   <a href="https://github.com/jiewenhuang/halo-theme-stack" target="_blank">
-    <img src="https://img.shields.io/github/v/release/jiewenhuang/halo-theme-stack" alt="Release"/>
+    <img src="https://img.shields.io/github/v/release/bulibuqiyaoyao133/halo-theme-stack" alt="Release"/>
   </a>
-  <a href="https://github.com/jiewenhuang/halo-theme-stack/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/bulibuqiyaoyao133/halo-theme-stack/blob/main/LICENSE" target="_blank">
 <img src="https://img.shields.io/badge/License-GPL%20v3.0-green.svg" alt="GPL-3.0 License">
   </a>  </a>
 </p>
